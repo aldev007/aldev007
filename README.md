@@ -10,6 +10,6 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on open source or data engineering projects
 - 🤔 I’m looking for help with database related work
 - 💬 Ask me about anything 
-- 📫 How to reach me: ping here
+- 📫 How to reach me: ping here!
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have alot of academic experience
